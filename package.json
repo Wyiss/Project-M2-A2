@@ -1,0 +1,19 @@
+{
+  "name": "module-2-assignment-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wyiss/Project-M2-A2.git"
+  },
+  "author": "Wyatt Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wyiss/Project-M2-A2/issues"
+  },
+  "homepage": "https://github.com/Wyiss/Project-M2-A2#readme"
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "customerName": "Wyatt",
+        "phoneNumber": "(555)123-4567",
+        "address": "1313 W Mockingbird Lane",
+        "loanAmount": 100000,
+        "interest": 0.06,
+        "loanTermYears": 5,
+        "loanType": "Simple",
+        "description": "For buying a house"
+    },
+
+    {
+        "id": 1,
+        "customerName": "Steve",
+        "phoneNumber": "(765)432-1555",
+        "address": "1400 N Gregg Street",
+        "loanAmount": 8000,
+        "interest": 0.05,
+        "loanTermYears": 3,
+        "loanType": "Simple",
+        "description": "For buying a car"
+    },
+
+    {
+        "id": 2,
+        "customerName": "Stacy",
+        "phoneNumber": "(546)812-5743",
+        "address": "122 E Smelly Road",
+        "loanAmount": 1000,
+        "interest": 0.07,
+        "loanTermYears": 4,
+        "loanType": "Simple",
+        "description": "Because I'm quirky :)"
+    },
+
+    {
+        "id": 3,
+        "customerName": "Jessica",
+        "phoneNumber": "(963)147-8520",
+        "address": "875 W Teriyaki Drive",
+        "loanAmount": 10000,
+        "interest": 0.065,
+        "loanTermYears": 4,
+        "loanType": "Simple",
+        "description": "Just cause I can B)"
+    },
+
+    {
+        "id": 4,
+        "customerName": "Bob",
+        "phoneNumber": "(456)789-1230",
+        "address": "1423 S Newport Place",
+        "loanAmount": 100,
+        "interest": 0.055,
+        "loanTermYears": 2,
+        "loanType": "Simple",
+        "description": "I need her back..."
+    }
+    
+]
